@@ -13,7 +13,7 @@ Choose the best possible HTML tags for each requirement below to mark up your de
 - [ ] Bold your term wherever it is used
 - [ ] Add your name and email as contact information
 
-### You also must include at least one of the following:
+**You also must include at least one of the following:**
 
 - [ ] An abbreviation for your word or phrase OR
 - [ ] A citation for the source of your word or phrase (example: urbandictionary.com)
