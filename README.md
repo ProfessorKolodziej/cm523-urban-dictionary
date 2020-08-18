@@ -1,12 +1,24 @@
-# Assignment
+# Urban Dictionary
 
-Assignment description here.
+In this assignment, you will be creating your own [Urban Dictionary](https://www.urbandictionary.com/) term definition. This term can be real or completely made up - your choice. Definitions may be shared with the class, so please keep it (reasonably) clean!
+
+Choose the best possible HTML tags for each requirement below to mark up your definition. (Hint: everything you need is covered in Chapter 2.)
 
 ## Requirements
 
-- [ ] Requirement one
-- [ ] Requirement two
-- [ ] Requirement three
+- [ ] A heading for your term
+- [ ] A definition of your term
+- [ ] Provide two examples of your word or phrase in use, using a list
+- [ ] Italicize your examples
+- [ ] Bold your term wherever it is used
+- [ ] Add your name and email as contact information
+
+You also must include at least one of the following:
+
+- [ ] An abbreviation for your word or phrase OR
+- [ ] A citation for the source of your word or phrase (example: urbandictionary.com)
+
+Good luck!
 
 ## Get started by syncing with Glitch!
 

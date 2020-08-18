@@ -36,7 +36,7 @@
     "transformIgnorePatterns": [],
     "haste": {
       "providesModuleNodeModules": [
-        "cm523-unit-tests/test-unit-test"
+        "cm523-unit-tests/urban-dictionary"
       ]
     },
     "testEnvironment": "node",
@@ -44,7 +44,7 @@
       "\\.js$": [
         "babel-jest",
         {
-          "configFile": "./node_modules/cm523-unit-tests/test-unit-test/babel.config.js"
+          "configFile": "./node_modules/cm523-unit-tests/babel.config.js"
         }
       ]
     }
