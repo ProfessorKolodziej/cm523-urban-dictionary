@@ -2,7 +2,7 @@
 
 In this assignment, you will be creating your own [Urban Dictionary](https://www.urbandictionary.com/) term definition. This term can be real or completely made up - your choice. Definitions may be shared with the class, so please keep it (reasonably) clean!
 
-Choose the best possible HTML tags for each requirement below to mark up your definition. (Hint: everything you need is covered in Chapter 2.)
+Choose the best possible HTML tags for each requirement below to mark up your definition. (Hint: everything you need is covered in Chapters 2 and 3.)
 
 ## Requirements
 
