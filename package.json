@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "serve src",
+    "start": "serve",
     "test": "jest"
   },
   "keywords": [],
@@ -39,7 +39,6 @@
         "cm523-unit-tests/urban-dictionary"
       ]
     },
-    "testEnvironment": "node",
     "transform": {
       "\\.js$": [
         "babel-jest",
