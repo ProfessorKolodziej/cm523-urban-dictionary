@@ -20,6 +20,10 @@ Choose the best possible HTML tags for each requirement below to mark up your de
 
 Good luck!
 
+## Finished assignment example
+
+<img width="1552" alt="Screen Shot 2020-08-18 at 12 04 28 PM" src="https://user-images.githubusercontent.com/1828613/90537199-06236080-e14b-11ea-9eb7-a679ff061e29.png">
+
 ## Get started by syncing with Glitch!
 
 First time? Need some extra help getting set up? Check out [this tutorial video on Kaltura](https://mymedia.bu.edu/media/Put+it+All+TogetherA+Blackboard%2C+Github%2C+Glitch/1_66r1kz2n).
